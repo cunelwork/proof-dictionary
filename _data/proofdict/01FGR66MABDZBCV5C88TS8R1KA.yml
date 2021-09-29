@@ -1,0 +1,13 @@
+id: 01FGR66MABDZBCV5C88TS8R1KA
+description: ''
+expected: 言う
+patterns:
+  - いう
+allows:
+  - という
+specs:
+  - from: いう
+    to: 言う
+  - from: という
+    to: という
+tags: []
