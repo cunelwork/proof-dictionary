@@ -1,0 +1,10 @@
+id: 01FGXAY977YEM5EGEJWWJZHF58
+description: ''
+expected: たずさわる
+patterns:
+  - 携わる
+allows: []
+specs:
+  - from: 携わる
+    to: たずさわる
+tags: []
