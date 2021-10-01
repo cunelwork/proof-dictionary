@@ -1,0 +1,10 @@
+id: 01FGXCZRCFD7YN7PSP5WS8D90E
+description: ''
+expected: その後
+patterns:
+  - そのご
+allows: []
+specs:
+  - from: そのご
+    to: その後
+tags: []
