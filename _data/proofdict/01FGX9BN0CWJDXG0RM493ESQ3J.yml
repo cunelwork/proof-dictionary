@@ -1,0 +1,10 @@
+id: 01FGX9BN0CWJDXG0RM493ESQ3J
+description: ''
+expected: 行く
+patterns:
+  - いく
+allows: []
+specs:
+  - from: いく
+    to: 行く
+tags: []
