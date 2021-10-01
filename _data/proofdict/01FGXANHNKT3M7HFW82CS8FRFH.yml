@@ -1,0 +1,10 @@
+id: 01FGXANHNKT3M7HFW82CS8FRFH
+description: ''
+expected: 渡って
+patterns:
+  - わたって
+allows: []
+specs:
+  - from: わたって
+    to: 渡って
+tags: []
