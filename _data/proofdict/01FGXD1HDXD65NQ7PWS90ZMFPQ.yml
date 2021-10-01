@@ -1,0 +1,10 @@
+id: 01FGXD1HDXD65NQ7PWS90ZMFPQ
+description: ''
+expected: その前
+patterns:
+  - そのまえ
+allows: []
+specs:
+  - from: そのまえ
+    to: その前
+tags: []
