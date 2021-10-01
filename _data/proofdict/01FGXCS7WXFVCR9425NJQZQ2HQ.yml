@@ -1,0 +1,10 @@
+id: 01FGXCS7WXFVCR9425NJQZQ2HQ
+description: ''
+expected: なかでも
+patterns:
+  - 中でも
+allows: []
+specs:
+  - from: 中でも
+    to: なかでも
+tags: []
