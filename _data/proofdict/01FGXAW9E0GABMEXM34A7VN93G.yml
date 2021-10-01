@@ -1,0 +1,10 @@
+id: 01FGXAW9E0GABMEXM34A7VN93G
+description: ''
+expected: わかる
+patterns:
+  - 分かる
+allows: []
+specs:
+  - from: 分かる
+    to: わかる
+tags: []
