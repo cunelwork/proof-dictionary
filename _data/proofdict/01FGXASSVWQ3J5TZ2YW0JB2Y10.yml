@@ -1,0 +1,10 @@
+id: 01FGXASSVWQ3J5TZ2YW0JB2Y10
+description: ''
+expected: つながる
+patterns:
+  - 繋がる
+allows: []
+specs:
+  - from: 繋がる
+    to: つながる
+tags: []
