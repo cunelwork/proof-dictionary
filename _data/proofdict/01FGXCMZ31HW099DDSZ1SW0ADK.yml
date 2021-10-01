@@ -1,0 +1,10 @@
+id: 01FGXCMZ31HW099DDSZ1SW0ADK
+description: ''
+expected: したがって
+patterns:
+  - 従って
+allows: []
+specs:
+  - from: 従って
+    to: したがって
+tags: []
