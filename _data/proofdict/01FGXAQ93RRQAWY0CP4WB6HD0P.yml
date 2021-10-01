@@ -1,0 +1,10 @@
+id: 01FGXAQ93RRQAWY0CP4WB6HD0P
+description: ''
+expected: ほしい
+patterns:
+  - 欲しい
+allows: []
+specs:
+  - from: 欲しい
+    to: ほしい
+tags: []
