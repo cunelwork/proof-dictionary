@@ -1,0 +1,20 @@
+id: 01FGXD76PKGE498KDRQ6D55GT6
+description: ''
+expected: ヶ月
+patterns:
+  - /ヶ月|ケ月|ヵ月|カ月|か月|箇月/
+allows: []
+specs:
+  - from: 1ケ月
+    to: 1ヶ月
+  - from: 1ヶ月
+    to: 1ヶ月
+  - from: 1ヵ月
+    to: 1ヶ月
+  - from: 1カ月
+    to: 1ヶ月
+  - from: 1か月
+    to: 1ヶ月
+  - from: 1箇月
+    to: 1ヶ月
+tags: []
