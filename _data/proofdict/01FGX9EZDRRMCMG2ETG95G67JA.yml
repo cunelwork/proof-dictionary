@@ -1,0 +1,10 @@
+id: 01FGX9EZDRRMCMG2ETG95G67JA
+description: ''
+expected: 来る
+patterns:
+  - くる
+allows: []
+specs:
+  - from: くる
+    to: 来る
+tags: []
