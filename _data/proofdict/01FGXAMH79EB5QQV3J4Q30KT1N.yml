@@ -1,0 +1,10 @@
+id: 01FGXAMH79EB5QQV3J4Q30KT1N
+description: ''
+expected: 起こる
+patterns:
+  - おこる
+allows: []
+specs:
+  - from: おこる
+    to: 起こる
+tags: []
