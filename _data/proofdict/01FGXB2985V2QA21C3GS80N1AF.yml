@@ -1,0 +1,10 @@
+id: 01FGXB2985V2QA21C3GS80N1AF
+description: ''
+expected: ください
+patterns:
+  - 下さい
+allows: []
+specs:
+  - from: 下さい
+    to: ください
+tags: []
