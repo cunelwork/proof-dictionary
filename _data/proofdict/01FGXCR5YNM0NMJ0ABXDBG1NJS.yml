@@ -1,0 +1,10 @@
+id: 01FGXCR5YNM0NMJ0ABXDBG1NJS
+description: ''
+expected: なお
+patterns:
+  - 尚
+allows: []
+specs:
+  - from: 尚
+    to: なお
+tags: []
