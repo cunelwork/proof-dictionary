@@ -1,0 +1,14 @@
+id: 01FGXAZ7ZH4T6X7XHHAC9C2F81
+description: ''
+expected: 手をあげる
+patterns:
+  - /手を挙げる|てを挙げる/
+allows: []
+specs:
+  - from: 手を挙げる
+    to: 手をあげる
+  - from: てを挙げる
+    to: 手をあげる
+  - from: てをあげる
+    to: てをあげる
+tags: []
