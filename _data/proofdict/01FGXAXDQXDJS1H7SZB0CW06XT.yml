@@ -1,0 +1,10 @@
+id: 01FGXAXDQXDJS1H7SZB0CW06XT
+description: ''
+expected: おこなう
+patterns:
+  - 行う
+allows: []
+specs:
+  - from: 行う
+    to: おこなう
+tags: []
