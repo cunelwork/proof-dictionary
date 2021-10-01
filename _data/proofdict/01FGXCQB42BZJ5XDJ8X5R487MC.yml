@@ -1,0 +1,10 @@
+id: 01FGXCQB42BZJ5XDJ8X5R487MC
+description: ''
+expected: たとえば
+patterns:
+  - 例えば
+allows: []
+specs:
+  - from: 例えば
+    to: たとえば
+tags: []
