@@ -1,0 +1,10 @@
+id: 01FGXAFBBN6509YK9VFAV60085
+description: ''
+expected: 働く
+patterns:
+  - はたらく
+allows: []
+specs:
+  - from: はたらく
+    to: 働く
+tags: []
