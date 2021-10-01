@@ -1,0 +1,10 @@
+id: 01FGXD2NQ7KRSP06JJD2GKD6HK
+description: ''
+expected: いま
+patterns:
+  - 今
+allows: []
+specs:
+  - from: 今
+    to: いま
+tags: []
