@@ -1,0 +1,10 @@
+id: 01FGX9JYDMS409QFC4TS0T29VG
+description: ''
+expected: 持つ
+patterns:
+  - もつ
+allows: []
+specs:
+  - from: もつ
+    to: 持つ
+tags: []
