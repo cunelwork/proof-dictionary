@@ -1,0 +1,10 @@
+id: 01FGXCXMZ7RFJF23XKC6J7Y2CE
+description: ''
+expected: 実は
+patterns:
+  - じつは
+allows: []
+specs:
+  - from: じつは
+    to: 実は
+tags: []
