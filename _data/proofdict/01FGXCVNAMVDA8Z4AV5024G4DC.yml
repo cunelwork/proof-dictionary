@@ -1,0 +1,10 @@
+id: 01FGXCVNAMVDA8Z4AV5024G4DC
+description: ''
+expected: ゆえに
+patterns:
+  - 故に
+allows: []
+specs:
+  - from: 故に
+    to: ゆえに
+tags: []
