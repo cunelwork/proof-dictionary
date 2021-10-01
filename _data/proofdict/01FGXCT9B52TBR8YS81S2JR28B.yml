@@ -1,0 +1,10 @@
+id: 01FGXCT9B52TBR8YS81S2JR28B
+description: ''
+expected: なかには
+patterns:
+  - 中には
+allows: []
+specs:
+  - from: 中には
+    to: なかには
+tags: []
