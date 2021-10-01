@@ -1,0 +1,10 @@
+id: 01FGXAKB7YRWC6R8TW0JCWGH4T
+description: ''
+expected: 生まれる
+patterns:
+  - うまれる
+allows: []
+specs:
+  - from: うまれる
+    to: 生まれる
+tags: []
