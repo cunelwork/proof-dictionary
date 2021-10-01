@@ -1,0 +1,10 @@
+id: 01FGXCYM56ZB82GCB19G12H5ZA
+description: ''
+expected: 特に
+patterns:
+  - とくに
+allows: []
+specs:
+  - from: とくに
+    to: 特に
+tags: []
