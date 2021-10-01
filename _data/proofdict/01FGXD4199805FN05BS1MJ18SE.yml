@@ -1,0 +1,12 @@
+id: 01FGXD4199805FN05BS1MJ18SE
+description: ''
+expected: とき
+patterns:
+  - /時|際/
+allows: []
+specs:
+  - from: 時
+    to: とき
+  - from: 際
+    to: とき
+tags: []
