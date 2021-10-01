@@ -1,0 +1,10 @@
+id: 01FGX9S3YB64M34V6F6Y1DCXKP
+description: ''
+expected: 作る
+patterns:
+  - つくる
+allows: []
+specs:
+  - from: つくる
+    to: 作る
+tags: []
