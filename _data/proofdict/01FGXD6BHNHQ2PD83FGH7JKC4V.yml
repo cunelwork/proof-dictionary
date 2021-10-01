@@ -1,0 +1,10 @@
+id: 01FGXD6BHNHQ2PD83FGH7JKC4V
+description: ''
+expected: のち
+patterns:
+  - 後
+allows: []
+specs:
+  - from: 後
+    to: のち
+tags: []
