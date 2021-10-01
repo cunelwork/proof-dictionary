@@ -1,0 +1,10 @@
+id: 01FGXAJ81WTY22NF5522BRP6B6
+description: ''
+expected: 嬉しい
+patterns:
+  - うれしい
+allows: []
+specs:
+  - from: うれしい
+    to: 嬉しい
+tags: []
