@@ -1,0 +1,10 @@
+id: 01FGXDV6JAX34HBDB8HCN5KHZS
+description: ''
+expected: あと
+patterns:
+  - 後
+allows: []
+specs:
+  - from: 後
+    to: あと
+tags: []
