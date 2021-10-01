@@ -1,0 +1,10 @@
+id: 01FGXARYD4KXYDK2CCR7T3FC4F
+description: ''
+expected: かかわる
+patterns:
+  - 関わる
+allows: []
+specs:
+  - from: 関わる
+    to: かかわる
+tags: []
