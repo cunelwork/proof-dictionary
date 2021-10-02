@@ -1,0 +1,10 @@
+id: 01FGZCFY5S315RPW5YA9RDCPEH
+description: ''
+expected: お客さま
+patterns:
+  - お客様
+allows: []
+specs:
+  - from: お客様
+    to: お客さま
+tags: []
