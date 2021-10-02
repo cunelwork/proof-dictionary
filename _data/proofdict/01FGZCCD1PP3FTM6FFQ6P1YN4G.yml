@@ -1,0 +1,10 @@
+id: 01FGZCCD1PP3FTM6FFQ6P1YN4G
+description: ''
+expected: かかる
+patterns:
+  - 掛かる
+allows: []
+specs:
+  - from: 掛かる
+    to: かかる
+tags: []
