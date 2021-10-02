@@ -1,0 +1,10 @@
+id: 01FGZ7C8J9RAC05NA32HHWB47B
+description: ''
+expected: とおり
+patterns:
+  - 通り
+allows: []
+specs:
+  - from: 通り
+    to: とおり
+tags: []
