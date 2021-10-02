@@ -1,0 +1,18 @@
+id: 01FGZD19V00NBWTFHWH7K35ZZA
+description: ''
+expected: $1.$2.$3
+patterns:
+  - '/(\d{4}).*?(\d{2}).*?(\d{2})\S*/'
+allows: []
+specs:
+  - from: 2021.12.12
+    to: 2021.12.12
+  - from: 2021.1.1
+    to: 2021.1.1
+  - from: '2021-04-12'
+    to: 2021.04.12
+  - from: 2021年4月1日
+    to: 2021年4月1日
+  - from: 2021年04月01日
+    to: 2021.04.01
+tags: []
