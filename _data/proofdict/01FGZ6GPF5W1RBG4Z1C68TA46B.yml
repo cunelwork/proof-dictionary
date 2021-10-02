@@ -1,0 +1,10 @@
+id: 01FGZ6GPF5W1RBG4Z1C68TA46B
+description: ''
+expected: おすすめ
+patterns:
+  - お勧め
+allows: []
+specs:
+  - from: お勧め
+    to: おすすめ
+tags: []
