@@ -1,0 +1,10 @@
+id: 01FGZ7B3HMTQA61JJBSTPH3H6N
+description: ''
+expected: できる
+patterns:
+  - 出来る
+allows: []
+specs:
+  - from: 出来る
+    to: できる
+tags: []
