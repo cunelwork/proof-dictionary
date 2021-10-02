@@ -1,0 +1,10 @@
+id: 01FGZ6HKGEZN4B17HFX04E7BVR
+description: ''
+expected: かわいい
+patterns:
+  - 可愛い
+allows: []
+specs:
+  - from: 可愛い
+    to: かわいい
+tags: []
