@@ -1,0 +1,10 @@
+id: 01FGZASYT4RZX9EWMHGYB576PN
+description: ''
+expected: 頑張る
+patterns:
+  - がんばる
+allows: []
+specs:
+  - from: がんばる
+    to: 頑張る
+tags: []
