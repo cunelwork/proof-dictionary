@@ -1,0 +1,10 @@
+id: 01FGZ8R6B189BVX1CPVKMEHX6R
+description: ''
+expected: まったく
+patterns:
+  - 全く
+allows: []
+specs:
+  - from: 全く
+    to: まったく
+tags: []
