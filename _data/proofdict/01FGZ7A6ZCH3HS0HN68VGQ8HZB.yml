@@ -1,0 +1,10 @@
+id: 01FGZ7A6ZCH3HS0HN68VGQ8HZB
+description: ''
+expected: たくさん
+patterns:
+  - 沢⼭
+allows: []
+specs:
+  - from: 沢⼭
+    to: たくさん
+tags: []
