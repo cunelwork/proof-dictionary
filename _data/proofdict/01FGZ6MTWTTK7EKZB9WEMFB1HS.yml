@@ -1,0 +1,10 @@
+id: 01FGZ6MTWTTK7EKZB9WEMFB1HS
+description: ''
+expected: きれいな
+patterns:
+  - 綺麗な
+allows: []
+specs:
+  - from: 綺麗な
+    to: きれいな
+tags: []
