@@ -1,0 +1,10 @@
+id: 01FGZ613FB2RHG1DMRB1EV1SVR
+description: ''
+expected: いまだ
+patterns:
+  - 未だ
+allows: []
+specs:
+  - from: 未だ
+    to: いまだ
+tags: []
