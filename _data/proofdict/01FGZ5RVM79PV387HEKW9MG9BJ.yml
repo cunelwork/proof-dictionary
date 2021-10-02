@@ -1,0 +1,10 @@
+id: 01FGZ5RVM79PV387HEKW9MG9BJ
+description: ''
+expected: いつか
+patterns:
+  - 何時か
+allows: []
+specs:
+  - from: 何時か
+    to: いつか
+tags: []
