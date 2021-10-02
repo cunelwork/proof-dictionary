@@ -1,0 +1,10 @@
+id: 01FGZC0GPQ941XE8AX8GM9QF0C
+description: ''
+expected: 目指す
+patterns:
+  - めざす
+allows: []
+specs:
+  - from: めざす
+    to: 目指す
+tags: []
