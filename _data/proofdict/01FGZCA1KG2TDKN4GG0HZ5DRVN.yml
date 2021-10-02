@@ -1,0 +1,10 @@
+id: 01FGZCA1KG2TDKN4GG0HZ5DRVN
+description: ''
+expected: 気づく
+patterns:
+  - きづく
+allows: []
+specs:
+  - from: きづく
+    to: 気づく
+tags: []
