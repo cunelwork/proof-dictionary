@@ -1,0 +1,12 @@
+id: 01FGZ9XEZ70RB840773P6WMMB3
+description: ''
+expected: ほか
+patterns:
+  - /他|外/
+allows: []
+specs:
+  - from: 他
+    to: ほか
+  - from: 外
+    to: ほか
+tags: []
