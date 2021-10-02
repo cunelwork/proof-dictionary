@@ -1,0 +1,10 @@
+id: 01FGZA5N16PEFV906STJEEEESB
+description: ''
+expected: はじまり
+patterns:
+  - 始まり
+allows: []
+specs:
+  - from: 始まり
+    to: はじまり
+tags: []
