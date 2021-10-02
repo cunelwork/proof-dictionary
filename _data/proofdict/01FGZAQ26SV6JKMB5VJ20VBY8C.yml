@@ -1,0 +1,10 @@
+id: 01FGZAQ26SV6JKMB5VJ20VBY8C
+description: ''
+expected: まつわる
+patterns:
+  - 纏わる
+allows: []
+specs:
+  - from: 纏わる
+    to: まつわる
+tags: []
