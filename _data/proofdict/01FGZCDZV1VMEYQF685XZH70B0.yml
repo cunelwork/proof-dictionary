@@ -1,0 +1,10 @@
+id: 01FGZCDZV1VMEYQF685XZH70B0
+description: ''
+expected: お問合せ
+patterns:
+  - お問い合わせ
+allows: []
+specs:
+  - from: お問い合わせ
+    to: お問合せ
+tags: []
