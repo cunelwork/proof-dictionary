@@ -1,0 +1,12 @@
+id: 01FGZCKBD25KEYS2YR2P9JFM66
+description: ''
+expected: 子ども
+patterns:
+  - /こども|子供/
+allows: []
+specs:
+  - from: 子供
+    to: 子ども
+  - from: こども
+    to: 子ども
+tags: []
