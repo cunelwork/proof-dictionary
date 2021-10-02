@@ -1,0 +1,10 @@
+id: 01FGZAVPDTJ70V5KB7886DB34C
+description: ''
+expected: 繰り返す
+patterns:
+  - くりかえす
+allows: []
+specs:
+  - from: くりかえす
+    to: 繰り返す
+tags: []
