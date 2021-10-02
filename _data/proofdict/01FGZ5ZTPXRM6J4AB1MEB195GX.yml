@@ -1,0 +1,10 @@
+id: 01FGZ5ZTPXRM6J4AB1MEB195GX
+description: ''
+expected: いっぱい
+patterns:
+  - ⼀杯
+allows: []
+specs:
+  - from: ⼀杯
+    to: いっぱい
+tags: []
