@@ -1,0 +1,10 @@
+id: 01FGZ7MDZHMHY86CNMHEZ7C68Z
+description: ''
+expected: ほとんど
+patterns:
+  - 殆ど
+allows: []
+specs:
+  - from: 殆ど
+    to: ほとんど
+tags: []
