@@ -1,0 +1,10 @@
+id: 01FGZ9T29KCT2GN95WQJMEFTP1
+description: ''
+expected: みんな
+patterns:
+  - 皆
+allows: []
+specs:
+  - from: 皆
+    to: みんな
+tags: []
