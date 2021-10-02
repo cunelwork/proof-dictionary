@@ -1,0 +1,10 @@
+id: 01FGZBGAKHC4T5HA232S4HY9KF
+description: ''
+expected: 難しい
+patterns:
+  - むずかしい
+allows: []
+specs:
+  - from: むずかしい
+    to: 難しい
+tags: []
