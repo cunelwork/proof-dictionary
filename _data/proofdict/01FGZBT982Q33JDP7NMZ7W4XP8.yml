@@ -1,0 +1,10 @@
+id: 01FGZBT982Q33JDP7NMZ7W4XP8
+description: ''
+expected: 何
+patterns:
+  - なに
+allows: []
+specs:
+  - from: なに
+    to: 何
+tags: []
