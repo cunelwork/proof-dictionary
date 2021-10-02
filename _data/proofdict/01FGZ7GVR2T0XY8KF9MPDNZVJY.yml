@@ -1,0 +1,10 @@
+id: 01FGZ7GVR2T0XY8KF9MPDNZVJY
+description: ''
+expected: ない
+patterns:
+  - 無い
+allows: []
+specs:
+  - from: 無い
+    to: ない
+tags: []
