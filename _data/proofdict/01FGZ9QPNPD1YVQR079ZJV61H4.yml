@@ -1,0 +1,10 @@
+id: 01FGZ9QPNPD1YVQR079ZJV61H4
+description: ''
+expected: もともと
+patterns:
+  - 元々
+allows: []
+specs:
+  - from: 元々
+    to: もともと
+tags: []
