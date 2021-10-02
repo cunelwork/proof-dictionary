@@ -1,0 +1,10 @@
+id: 01FGZAKXGF97H489F398X5CVHV
+description: ''
+expected: かなしい
+patterns:
+  - 悲しい
+allows: []
+specs:
+  - from: 悲しい
+    to: かなしい
+tags: []
