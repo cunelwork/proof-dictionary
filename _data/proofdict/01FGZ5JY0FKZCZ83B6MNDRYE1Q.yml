@@ -1,0 +1,10 @@
+id: 01FGZ5JY0FKZCZ83B6MNDRYE1Q
+description: ''
+expected: あらかじめ
+patterns:
+  - 予め
+allows: []
+specs:
+  - from: 予め
+    to: あらかじめ
+tags: []
