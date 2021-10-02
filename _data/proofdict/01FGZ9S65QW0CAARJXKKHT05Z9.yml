@@ -1,0 +1,10 @@
+id: 01FGZ9S65QW0CAARJXKKHT05Z9
+description: ''
+expected: ため
+patterns:
+  - 為
+allows: []
+specs:
+  - from: 為
+    to: ため
+tags: []
