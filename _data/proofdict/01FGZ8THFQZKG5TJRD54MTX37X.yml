@@ -1,0 +1,10 @@
+id: 01FGZ8THFQZKG5TJRD54MTX37X
+description: ''
+expected: もっとも
+patterns:
+  - 最も
+allows: []
+specs:
+  - from: 最も
+    to: もっとも
+tags: []
