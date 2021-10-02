@@ -1,0 +1,10 @@
+id: 01FGZ7KE3ZHSWK8HXPRFGENJR8
+description: ''
+expected: ほう
+patterns:
+  - ⽅
+allows: []
+specs:
+  - from: ⽅
+    to: ほう
+tags: []
