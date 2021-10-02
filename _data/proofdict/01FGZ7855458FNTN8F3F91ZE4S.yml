@@ -1,0 +1,10 @@
+id: 01FGZ7855458FNTN8F3F91ZE4S
+description: ''
+expected: そういう
+patterns:
+  - そう⾔う
+allows: []
+specs:
+  - from: そう⾔う
+    to: そういう
+tags: []
