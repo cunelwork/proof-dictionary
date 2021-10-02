@@ -1,0 +1,10 @@
+id: 01FGZ9EJY0YVZY9PPTB9T59ZGV
+description: ''
+expected: あたり
+patterns:
+  - 当たり
+allows: []
+specs:
+  - from: 当たり
+    to: あたり
+tags: []
