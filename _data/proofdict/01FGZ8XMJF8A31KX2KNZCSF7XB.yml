@@ -1,0 +1,10 @@
+id: 01FGZ8XMJF8A31KX2KNZCSF7XB
+description: ''
+expected: ちがう
+patterns:
+  - 違う
+allows: []
+specs:
+  - from: 違う
+    to: ちがう
+tags: []
