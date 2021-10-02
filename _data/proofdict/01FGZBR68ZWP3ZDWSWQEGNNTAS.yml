@@ -1,0 +1,10 @@
+id: 01FGZBR68ZWP3ZDWSWQEGNNTAS
+description: ''
+expected: 誰でも
+patterns:
+  - だれでも
+allows: []
+specs:
+  - from: だれでも
+    to: 誰でも
+tags: []
