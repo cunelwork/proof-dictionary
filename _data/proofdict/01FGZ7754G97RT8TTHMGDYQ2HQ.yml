@@ -1,0 +1,10 @@
+id: 01FGZ7754G97RT8TTHMGDYQ2HQ
+description: ''
+expected: ぜひ
+patterns:
+  - 是⾮
+allows: []
+specs:
+  - from: 是⾮
+    to: ぜひ
+tags: []
