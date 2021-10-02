@@ -1,0 +1,10 @@
+id: 01FGZC1FZSKFC3PVE991XQSN6Y
+description: ''
+expected: 初めて
+patterns:
+  - はじめて
+allows: []
+specs:
+  - from: はじめて
+    to: 初めて
+tags: []
