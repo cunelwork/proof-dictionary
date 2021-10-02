@@ -1,0 +1,10 @@
+id: 01FGZ7JJ3J9KA2ZYMXSJ4NPWKC
+description: ''
+expected: なぜか
+patterns:
+  - 何故か
+allows: []
+specs:
+  - from: 何故か
+    to: なぜか
+tags: []
