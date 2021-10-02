@@ -1,0 +1,10 @@
+id: 01FGZC2EF576HXKV9M5XCVZNE3
+description: ''
+expected: 続ける
+patterns:
+  - つづける
+allows: []
+specs:
+  - from: つづける
+    to: 続ける
+tags: []
