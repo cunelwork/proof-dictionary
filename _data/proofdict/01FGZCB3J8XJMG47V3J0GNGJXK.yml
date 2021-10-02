@@ -1,0 +1,10 @@
+id: 01FGZCB3J8XJMG47V3J0GNGJXK
+description: ''
+expected: 周り
+patterns:
+  - まわり
+allows: []
+specs:
+  - from: まわり
+    to: 周り
+tags: []
