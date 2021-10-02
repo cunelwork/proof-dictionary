@@ -1,0 +1,10 @@
+id: 01FGZAQZSEYQPYN82AER6H1PAQ
+description: ''
+expected: 閃く
+patterns:
+  - ひらめく
+allows: []
+specs:
+  - from: ひらめく
+    to: 閃く
+tags: []
