@@ -1,0 +1,10 @@
+id: 01FGZ5MVPZCR3105YW6Q6W3C20
+description: ''
+expected: ある
+patterns:
+  - 有る
+allows: []
+specs:
+  - from: 有る
+    to: ある
+tags: []
