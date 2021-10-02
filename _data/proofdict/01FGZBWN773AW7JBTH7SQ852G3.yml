@@ -1,0 +1,12 @@
+id: 01FGZBWN773AW7JBTH7SQ852G3
+description: ''
+expected: 疑問
+patterns:
+  - /ぎもん|ギモン/
+allows: []
+specs:
+  - from: ギモン
+    to: 疑問
+  - from: ぎもん
+    to: 疑問
+tags: []
