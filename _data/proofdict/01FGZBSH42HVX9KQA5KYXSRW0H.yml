@@ -1,0 +1,10 @@
+id: 01FGZBSH42HVX9KQA5KYXSRW0H
+description: ''
+expected: 細かい
+patterns:
+  - こまかい
+allows: []
+specs:
+  - from: こまかい
+    to: 細かい
+tags: []
