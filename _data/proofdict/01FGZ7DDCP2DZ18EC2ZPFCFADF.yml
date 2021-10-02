@@ -1,0 +1,10 @@
+id: 01FGZ7DDCP2DZ18EC2ZPFCFADF
+description: ''
+expected: ときどき
+patterns:
+  - 時々
+allows: []
+specs:
+  - from: 時々
+    to: ときどき
+tags: []
