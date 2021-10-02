@@ -1,0 +1,10 @@
+id: 01FGZCJNDKEWZ3M5Y6QM0R1Y9D
+description: ''
+expected: 大人
+patterns:
+  - おとな
+allows: []
+specs:
+  - from: おとな
+    to: 大人
+tags: []
