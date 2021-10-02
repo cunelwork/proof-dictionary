@@ -1,0 +1,10 @@
+id: 01FGZBHQ908F88BWD81E7TVE2H
+description: ''
+expected: 何よりも
+patterns:
+  - なによりも
+allows: []
+specs:
+  - from: なによりも
+    to: 何よりも
+tags: []
