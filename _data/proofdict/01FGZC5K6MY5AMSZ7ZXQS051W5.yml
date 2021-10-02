@@ -1,0 +1,10 @@
+id: 01FGZC5K6MY5AMSZ7ZXQS051W5
+description: ''
+expected: 仕組み
+patterns:
+  - しくみ
+allows: []
+specs:
+  - from: しくみ
+    to: 仕組み
+tags: []
