@@ -1,0 +1,10 @@
+id: 01FGZB1TBK3WCMD01AMXWQVJRE
+description: ''
+expected: 同じ
+patterns:
+  - おなじ
+allows: []
+specs:
+  - from: おなじ
+    to: 同じ
+tags: []
