@@ -1,0 +1,10 @@
+id: 01FGZ9534S4MF0HT27T1F8RBX3
+description: ''
+expected: など
+patterns:
+  - 等
+allows: []
+specs:
+  - from: 等
+    to: など
+tags: []
