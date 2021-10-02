@@ -1,0 +1,10 @@
+id: 01FGZ6V9Z4SW8FE1Z3M6H4EPY5
+description: ''
+expected: さまざま
+patterns:
+  - 様々
+allows: []
+specs:
+  - from: 様々
+    to: さまざま
+tags: []
