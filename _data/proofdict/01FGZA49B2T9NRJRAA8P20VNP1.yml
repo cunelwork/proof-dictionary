@@ -1,0 +1,12 @@
+id: 01FGZA49B2T9NRJRAA8P20VNP1
+description: ''
+expected: おしゃれ
+patterns:
+  - /お洒落|オシャレ/
+allows: []
+specs:
+  - from: お洒落
+    to: おしゃれ
+  - from: オシャレ
+    to: おしゃれ
+tags: []
