@@ -1,0 +1,10 @@
+id: 01FGZ96DYE0CNBW12GQ5CJSANJ
+description: ''
+expected: ごと
+patterns:
+  - 毎
+allows: []
+specs:
+  - from: 毎
+    to: ごと
+tags: []
