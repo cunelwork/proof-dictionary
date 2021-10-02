@@ -1,0 +1,10 @@
+id: 01FGZ66ZPWF45C2F5EJR0052XQ
+description: ''
+expected: いわゆる
+patterns:
+  - 所謂
+allows: []
+specs:
+  - from: 所謂
+    to: いわゆる
+tags: []
