@@ -1,0 +1,12 @@
+id: 01FGZCGWPH0T0Z62AW35VER2JS
+description: ''
+expected: マネ
+patterns:
+  - /まね|真似/
+allows: []
+specs:
+  - from: 真似
+    to: マネ
+  - from: まね
+    to: マネ
+tags: []
