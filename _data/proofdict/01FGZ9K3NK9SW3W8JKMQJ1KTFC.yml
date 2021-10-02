@@ -1,0 +1,10 @@
+id: 01FGZ9K3NK9SW3W8JKMQJ1KTFC
+description: ''
+expected: ふつう
+patterns:
+  - 普通
+allows: []
+specs:
+  - from: 普通
+    to: ふつう
+tags: []
