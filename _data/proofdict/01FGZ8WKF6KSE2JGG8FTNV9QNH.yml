@@ -1,0 +1,10 @@
+id: 01FGZ8WKF6KSE2JGG8FTNV9QNH
+description: ''
+expected: おもしろい
+patterns:
+  - 面白い
+allows: []
+specs:
+  - from: 面白い
+    to: おもしろい
+tags: []
