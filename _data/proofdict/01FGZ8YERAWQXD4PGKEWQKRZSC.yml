@@ -1,0 +1,10 @@
+id: 01FGZ8YERAWQXD4PGKEWQKRZSC
+description: ''
+expected: かたち
+patterns:
+  - 形
+allows: []
+specs:
+  - from: 形
+    to: かたち
+tags: []
