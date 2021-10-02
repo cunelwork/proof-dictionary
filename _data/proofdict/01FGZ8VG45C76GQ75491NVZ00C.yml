@@ -1,0 +1,10 @@
+id: 01FGZ8VG45C76GQ75491NVZ00C
+description: ''
+expected: よい
+patterns:
+  - 良い
+allows: []
+specs:
+  - from: 良い
+    to: よい
+tags: []
