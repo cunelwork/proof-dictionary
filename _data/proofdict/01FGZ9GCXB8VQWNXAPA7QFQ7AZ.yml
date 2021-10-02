@@ -1,0 +1,16 @@
+id: 01FGZ9GCXB8VQWNXAPA7QFQ7AZ
+description: ''
+expected: $1たち
+patterns:
+  - /(僕|私|ぼく|わたし)達/
+allows: []
+specs:
+  - from: 僕達
+    to: 僕たち
+  - from: 私達
+    to: 私たち
+  - from: ぼく達
+    to: ぼくたち
+  - from: わたし達
+    to: わたしたち
+tags: []
