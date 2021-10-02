@@ -1,0 +1,10 @@
+id: 01FGZ7EQT6GBXAVGB8WCSTH2GC
+description: ''
+expected: どこか
+patterns:
+  - 何処か
+allows: []
+specs:
+  - from: 何処か
+    to: どこか
+tags: []
