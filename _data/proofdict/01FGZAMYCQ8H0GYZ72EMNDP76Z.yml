@@ -1,0 +1,10 @@
+id: 01FGZAMYCQ8H0GYZ72EMNDP76Z
+description: ''
+expected: すてき
+patterns:
+  - 素敵
+allows: []
+specs:
+  - from: 素敵
+    to: すてき
+tags: []
