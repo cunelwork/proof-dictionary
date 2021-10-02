@@ -1,0 +1,10 @@
+id: 01FGZ7994TZBPM7WH3F7916QZA
+description: ''
+expected: そのような
+patterns:
+  - その様な
+allows: []
+specs:
+  - from: その様な
+    to: そのような
+tags: []
