@@ -1,0 +1,10 @@
+id: 01FGZ75265DJCRHQ201WVQJTZM
+description: ''
+expected: すばらしい
+patterns:
+  - 素晴らしい
+allows: []
+specs:
+  - from: 素晴らしい
+    to: すばらしい
+tags: []
