@@ -1,0 +1,10 @@
+id: 01FGZ5NZJ2M99QGM35F94NWM6V
+description: ''
+expected: あわせて
+patterns:
+  - 併せて
+allows: []
+specs:
+  - from: 併せて
+    to: あわせて
+tags: []
