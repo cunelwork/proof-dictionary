@@ -1,0 +1,10 @@
+id: 01FGZATME8SJK08ADB50CZEQ2K
+description: ''
+expected: し合う
+patterns:
+  - しあう
+allows: []
+specs:
+  - from: しあう
+    to: し合う
+tags: []
