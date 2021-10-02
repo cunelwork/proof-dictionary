@@ -1,0 +1,10 @@
+id: 01FGZBKF36FG5TB2QKYNGWMAMX
+description: ''
+expected: 優れた
+patterns:
+  - すぐれた
+allows: []
+specs:
+  - from: すぐれた
+    to: 優れた
+tags: []
