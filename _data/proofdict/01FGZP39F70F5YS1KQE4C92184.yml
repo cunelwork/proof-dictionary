@@ -1,0 +1,12 @@
+id: 01FGZP39F70F5YS1KQE4C92184
+description: '4桁の数字'
+expected: '$1,$2'
+patterns:
+  - '/([0-9]{1})([0-9]{3})/'
+allows: []
+specs:
+  - from: '1000'
+    to: '1,000'
+  - from: '20000'
+    to: '2,0000'
+tags: []
