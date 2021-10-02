@@ -1,0 +1,10 @@
+id: 01FGZAHXW4SG0MHNPSGN6A23WV
+description: ''
+expected: かたっぱし
+patterns:
+  - 片っ端
+allows: []
+specs:
+  - from: 片っ端
+    to: かたっぱし
+tags: []
