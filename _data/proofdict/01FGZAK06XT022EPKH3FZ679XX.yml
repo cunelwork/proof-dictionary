@@ -1,0 +1,10 @@
+id: 01FGZAK06XT022EPKH3FZ679XX
+description: ''
+expected: はやい
+patterns:
+  - 早い
+allows: []
+specs:
+  - from: 早い
+    to: はやい
+tags: []
