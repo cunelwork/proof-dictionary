@@ -1,0 +1,10 @@
+id: 01FGZ5QH9YDMAV7GAGY5KW8WBG
+description: ''
+expected: いただきます
+patterns:
+  - 頂きます
+allows: []
+specs:
+  - from: 頂きます
+    to: いただきます
+tags: []
