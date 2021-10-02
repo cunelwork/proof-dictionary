@@ -1,0 +1,10 @@
+id: 01FGZPBCEC3TBWQHECBKJSXZKZ
+description: ''
+expected: 数字が5桁以上です
+patterns:
+  - '/([0-9]{1})([0-9]{4})/'
+allows: []
+specs:
+  - from: '20000'
+    to: 数字が5桁以上です
+tags: []
