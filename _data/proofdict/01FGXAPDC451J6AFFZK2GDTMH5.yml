@@ -1,10 +1,10 @@
 id: 01FGXAPDC451J6AFFZK2GDTMH5
-description: ''
-expected: 捉える
+description: ""
+expected: とらえる
 patterns:
-  - とらえる
+  - 捉える
 allows: []
 specs:
-  - from: とらえる
-    to: 捉える
+  - from: 捉える
+    to: とらえる
 tags: []
