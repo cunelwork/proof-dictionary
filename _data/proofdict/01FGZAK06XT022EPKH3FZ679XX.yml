@@ -1,10 +1,10 @@
 id: 01FGZAK06XT022EPKH3FZ679XX
-description: ''
-expected: はやい
+description: ""
+expected: 早い｜速い 漢字で書いてください
 patterns:
-  - 早い
+  - はやい
 allows: []
 specs:
-  - from: 早い
-    to: はやい
+  - from: はやい
+    to: 早い｜速い 漢字で書いてください
 tags: []
