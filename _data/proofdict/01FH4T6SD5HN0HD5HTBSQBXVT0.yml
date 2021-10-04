@@ -1,0 +1,24 @@
+id: 01FH4T6SD5HN0HD5HTBSQBXVT0
+description: ''
+expected: $1.
+patterns:
+  - '/([0-9]+|[０-９]+)[.|．]\s*/'
+allows: []
+specs:
+  - from: 1.見出し
+    to: 1.見出し
+  - from: 1. 見出し
+    to: 1.見出し
+  - from: 1．見出し
+    to: 1.見出し
+  - from: 1．　見出し
+    to: 1.見出し
+  - from: １.見出し
+    to: １.見出し
+  - from: １. 見出し
+    to: １.見出し
+  - from: １．見出し
+    to: １.見出し
+  - from: １．　見出し
+    to: １.見出し
+tags: []
