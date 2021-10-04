@@ -2,9 +2,13 @@ id: 01FGZC5K6MY5AMSZ7ZXQS051W5
 description: ""
 expected: 仕組み
 patterns:
-  - /しくみ|仕組/
+  - /しくみ|仕組[!み]/
 allows: []
 specs:
+  - from: 仕組み
+    to: 仕組み
+  - from: 仕組
+    to: 仕組
   - from: しくみ
     to: 仕組み
 tags: []
