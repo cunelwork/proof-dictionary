@@ -1,9 +1,16 @@
 id: 01FGZ9XEZ70RB840773P6WMMB3
-description: ''
+description: ""
 expected: ほか
 patterns:
   - /他|外/
-allows: []
+allows:
+  - 以外
+  - 意外
+  - 外観
+  - 外見
+  - 屋外
+  - 案外
+  - 例外
 specs:
   - from: 他
     to: ほか
