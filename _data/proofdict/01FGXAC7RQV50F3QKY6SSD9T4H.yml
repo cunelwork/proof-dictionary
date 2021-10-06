@@ -6,6 +6,8 @@ patterns:
 allows:
   - かかわる
 specs:
-  - from: かわる
+  - from: かわか
     to: 変わる
+  - from: かかわる
+    to: かかわる
 tags: []
