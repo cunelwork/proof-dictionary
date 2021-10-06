@@ -1,9 +1,10 @@
 id: 01FGXAC7RQV50F3QKY6SSD9T4H
-description: ''
+description: ""
 expected: 変わる
 patterns:
   - かわる
-allows: []
+allows:
+  - かかわる
 specs:
   - from: かわる
     to: 変わる
