@@ -1,10 +1,13 @@
 id: 01FGXDV6JAX34HBDB8HCN5KHZS
-description: ''
+description: ""
 expected: あと
 patterns:
   - 後
-allows: []
+allows:
+  - その後
 specs:
   - from: 後
     to: あと
+  - from: その後
+    to: その後
 tags: []
