@@ -1,0 +1,16 @@
+id: 01FHPKMZ18PN0H5S555A87ZF0C
+description: ''
+expected: 思いのほか
+patterns:
+  - /思いの外|おもいの外/
+allows: []
+specs:
+  - from: 思いのほか
+    to: 思いのほか
+  - from: おもいの外
+    to: 思いのほか
+  - from: 思いの外
+    to: 思いのほか
+  - from: おもいのほか
+    to: おもいのほか
+tags: []
