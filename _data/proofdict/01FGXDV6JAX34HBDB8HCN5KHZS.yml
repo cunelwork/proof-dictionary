@@ -5,6 +5,12 @@ patterns:
   - 後
 allows:
   - その後
+  - 最後
+  - 前後
+  - 午後
+  - 以後
+  - 今後
+  - 老後
 specs:
   - from: 後
     to: あと

@@ -1,9 +1,16 @@
 id: 01FGZ96DYE0CNBW12GQ5CJSANJ
-description: ''
+description: ""
 expected: ごと
 patterns:
   - 毎
-allows: []
+allows:
+  - 毎日
+  - 毎週
+  - 毎月
+  - 毎年
+  - 毎晩
+  - 毎度
+  - 毎回
 specs:
   - from: 毎
     to: ごと
