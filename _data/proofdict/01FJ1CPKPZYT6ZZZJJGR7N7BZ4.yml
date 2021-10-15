@@ -1,0 +1,10 @@
+id: 01FJ1CPKPZYT6ZZZJJGR7N7BZ4
+description: ''
+expected: わずか
+patterns:
+  - 僅か
+allows: []
+specs:
+  - from: 僅か
+    to: わずか
+tags: []
