@@ -1,0 +1,12 @@
+id: 01FJ1900JXFEDYEHJRRP6JAYSZ
+description: ''
+expected: そろ$1
+patterns:
+  - /揃(え|う)/
+allows: []
+specs:
+  - from: 揃える
+    to: そろえる
+  - from: 揃う
+    to: そろう
+tags: []
