@@ -1,10 +1,10 @@
 id: 01FGXCQB42BZJ5XDJ8X5R487MC
 description: ""
-expected: 例えば
+expected: たとえば
 patterns:
-  - たとえば
+  - 例えば
 allows: []
 specs:
-  - from: たとえば
-    to: 例えば
+  - from: 例えば
+    to: たとえば
 tags: []
