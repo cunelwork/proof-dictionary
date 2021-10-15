@@ -1,0 +1,14 @@
+id: 01FJ1A034BB01QWY3955GMQEYS
+description: ''
+expected: ホコリ
+patterns:
+  - /埃|ほこり/
+allows: []
+specs:
+  - from: ホコリ
+    to: ホコリ
+  - from: 埃
+    to: ホコリ
+  - from: ほこり
+    to: ホコリ
+tags: []
