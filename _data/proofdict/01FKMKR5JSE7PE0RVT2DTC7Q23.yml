@@ -1,0 +1,22 @@
+id: 01FKMKR5JSE7PE0RVT2DTC7Q23
+description: ''
+expected: 施主
+patterns:
+  - /お施主様|お施主さま|お施主さん|施主様|施主さん|お施主/
+allows: []
+specs:
+  - from: 施主
+    to: 施主
+  - from: お施主
+    to: 施主
+  - from: お施主様
+    to: 施主
+  - from: お施主さま
+    to: 施主
+  - from: お施主さん
+    to: 施主
+  - from: 施主様
+    to: 施主
+  - from: 施主さん
+    to: 施主
+tags: []
