@@ -1,0 +1,14 @@
+id: 01FKMKYPT671D3KHY9KA63Z7G1
+description: ''
+expected: 住宅会社
+patterns:
+  - /ハウスビルダー|ビルダー|住宅メーカー/
+allows: []
+specs:
+  - from: ビルダー
+    to: 住宅会社
+  - from: ハウスビルダー
+    to: 住宅会社
+  - from: 住宅メーカー
+    to: 住宅会社
+tags: []
