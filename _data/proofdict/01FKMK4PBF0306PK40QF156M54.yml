@@ -1,0 +1,20 @@
+id: 01FKMK4PBF0306PK40QF156M54
+description: ''
+expected: みなさん
+patterns:
+  - /皆様|みなさま|皆さん|あなた|貴方/
+allows: []
+specs:
+  - from: 皆さん
+    to: みなさん
+  - from: 皆様
+    to: みなさん
+  - from: みなさま
+    to: みなさん
+  - from: みなさん
+    to: みなさん
+  - from: あなた
+    to: みなさん
+  - from: 貴方
+    to: みなさん
+tags: []
