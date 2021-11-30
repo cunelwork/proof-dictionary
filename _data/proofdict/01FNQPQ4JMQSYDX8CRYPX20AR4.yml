@@ -1,0 +1,20 @@
+id: 01FNQPQ4JMQSYDX8CRYPX20AR4
+description: ''
+expected: はかる
+patterns:
+  - /計る|図る|測る|量る|謀る|諮る/
+allows: []
+specs:
+  - from: 図る
+    to: はかる
+  - from: 計る
+    to: はかる
+  - from: 測る
+    to: はかる
+  - from: 量る
+    to: はかる
+  - from: 謀る
+    to: はかる
+  - from: 諮る
+    to: はかる
+tags: []
